@@ -1,0 +1,13 @@
+extends layout
+
+//- block header
+//-   h2 yo! this is replacing the default header because I overwrote/specified it
+//- 
+//- block content 
+//-   p hello, here is the template header
+
+block content 
+  h2 Sale ends in #{h.moment().endOf('day').fromNow()}
+  
+//- block footer
+//-   p I dont love you
