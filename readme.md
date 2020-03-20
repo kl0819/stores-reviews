@@ -1,10 +1,6 @@
 ### Deployment
   [🔺now](https://kelly-food-reviews-reujioettx.now.sh/)
 
-  [Heroku](https://stores-review.herokuapp.com/)
-
-  [Digital Ocean]()
-
 #### Tools
   [mailtrap](https://mailtrap.io)
 
